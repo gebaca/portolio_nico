@@ -1,0 +1,22 @@
+{
+  "components": {
+    "button": {
+      "idle": {
+        "bg": { "$value": "{semantics.color.muted}", "$type": "color" }
+      },
+      "hover": {
+        "bg": { "$value": "{semantics.color.primary}", "$type": "color" }
+      }
+    },
+    "card": {
+      "bg": { "$value": "{semantics.color.surface}", "$type": "color" },
+      "header": {
+        "bg": { "$value": "{semantics.color.primaryDark}", "$type": "color" }
+      }
+    },
+    "grid": {
+      "$value": "{semantics.color.muted}",
+      "$type": "color"
+    }
+  }
+}

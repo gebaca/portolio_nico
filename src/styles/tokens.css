@@ -1,0 +1,25 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --primitives-color-gray-0: #ffffff;
+  --primitives-color-gray-100: #f1f8f9;
+  --primitives-color-gray-150: #b1cacc;
+  --primitives-color-gray-200: #e2eff0;
+  --primitives-color-gray-500: #4a5557;
+  --primitives-color-gray-800: #363e3f;
+  --primitives-color-gray-900: #424d4e;
+  --primitives-color-gray-1000: #000000;
+  --semantics-color-background: var(--primitives-color-gray-100);
+  --semantics-color-muted: var(--primitives-color-gray-200);
+  --semantics-color-primary: var(--primitives-color-gray-500);
+  --semantics-color-surface: var(--primitives-color-gray-0);
+  --semantics-color-primary-dark: var(--primitives-color-gray-900);
+  --semantics-color-text: var(--primitives-color-gray-800);
+  --components-button-idle-bg: var(--semantics-color-muted);
+  --components-button-hover-bg: var(--semantics-color-primary);
+  --components-card-bg: var(--semantics-color-surface);
+  --components-card-header-bg: var(--semantics-color-primary-dark);
+  --components-grid: var(--semantics-color-muted);
+}
