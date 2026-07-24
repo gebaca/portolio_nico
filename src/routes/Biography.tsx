@@ -1,11 +1,14 @@
+import { Button } from '../components/Button';
+
 export default function Biography() {
   return (
     <div>
-      <h1>Biografía</h1>
-      <p>
-        Diseñador y desarrollador híbrido. Me apasiona el código y el diseño
-        visual.
-      </p>
+      <Button
+        label='Click Me'
+        onClick={() => alert('Button clicked!')}
+        size='md'
+        variant='primary'
+      />
     </div>
   );
 }
